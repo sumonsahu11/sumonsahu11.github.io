@@ -93,7 +93,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2021-05-11T21:23:35Z</date>
+	<date>2021-05-12T00:08:17Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -101,7 +101,7 @@
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0, 0}, {1218, 725}}</string>
+			<string>{{0, 0}, {1680, 988}}</string>
 			<key>identifier</key>
 			<string>container 55</string>
 			<key>isCustomizableViewContainer</key>
@@ -114,7 +114,7 @@
 			<array>
 				<dict>
 					<key>frame</key>
-					<string>{{0, 0}, {947, 725}}</string>
+					<string>{{0, 0}, {1409, 988}}</string>
 					<key>identifier</key>
 					<string>container 88</string>
 					<key>isCustomizableViewContainer</key>
@@ -127,7 +127,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{0, 0}, {676, 725}}</string>
+							<string>{{0, 0}, {1138, 988}}</string>
 							<key>identifier</key>
 							<string>container 77</string>
 							<key>isCustomizableViewContainer</key>
@@ -140,7 +140,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{0, 0}, {135, 725}}</string>
+									<string>{{0, 0}, {135, 988}}</string>
 									<key>identifier</key>
 									<string>container 67</string>
 									<key>isCustomizableViewContainer</key>
@@ -153,7 +153,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{0, 0}, {135, 725}}</string>
+											<string>{{0, 0}, {135, 988}}</string>
 											<key>identifier</key>
 											<string>sceneSelectorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -163,7 +163,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 0}, {540, 725}}</string>
+									<string>{{136, 0}, {1002, 988}}</string>
 									<key>identifier</key>
 									<string>container 68</string>
 									<key>isCustomizableViewContainer</key>
@@ -176,7 +176,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {540, 135}}</string>
+											<string>{{136, 0}, {1002, 240}}</string>
 											<key>identifier</key>
 											<string>container 4</string>
 											<key>isCustomizableViewContainer</key>
@@ -189,7 +189,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{136, 0}, {540, 135}}</string>
+													<string>{{136, 0}, {1002, 240}}</string>
 													<key>identifier</key>
 													<string>timelineCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -199,7 +199,7 @@
 										</dict>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 136}, {540, 589}}</string>
+											<string>{{136, 241}, {1002, 747}}</string>
 											<key>identifier</key>
 											<string>container 3</string>
 											<key>isCustomizableViewContainer</key>
@@ -212,7 +212,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{136, 136}, {540, 589}}</string>
+													<string>{{136, 241}, {1002, 747}}</string>
 													<key>identifier</key>
 													<string>sceneEditorCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -226,7 +226,7 @@
 						</dict>
 						<dict>
 							<key>frame</key>
-							<string>{{677, 0}, {270, 725}}</string>
+							<string>{{1139, 0}, {270, 988}}</string>
 							<key>identifier</key>
 							<string>container 76</string>
 							<key>isCustomizableViewContainer</key>
@@ -239,7 +239,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{677, 0}, {270, 725}}</string>
+									<string>{{1139, 0}, {270, 988}}</string>
 									<key>identifier</key>
 									<string>inspectorCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
@@ -251,7 +251,7 @@
 				</dict>
 				<dict>
 					<key>frame</key>
-					<string>{{948, 0}, {270, 725}}</string>
+					<string>{{1410, 0}, {270, 988}}</string>
 					<key>identifier</key>
 					<string>container 87</string>
 					<key>isCustomizableViewContainer</key>
@@ -264,7 +264,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{948, 0}, {270, 725}}</string>
+							<string>{{1410, 0}, {270, 988}}</string>
 							<key>identifier</key>
 							<string>resourcesCustomizableContainer</string>
 							<key>isCustomizableViewContainer</key>
@@ -937,7 +937,7 @@
 						<integer>140</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1706, 5392}</string>
+					<string>{2004, 5392}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1178,7 +1178,9 @@ function init(hypeDocument, element, event) {
 			<key>documentIdentifier</key>
 			<string>71DB486F-FC08-4BA9-BF2E-BC321FE0C5F6-10266-0003A65E76E64C1A</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>578</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -8000,7 +8002,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>162px</string>
+							<string>272px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8036,7 +8038,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>533px</string>
+							<string>602px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -13069,7 +13071,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>163px</string>
+							<string>84px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -13093,7 +13095,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>128px</string>
+							<string>66px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14326,7 +14328,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>1196px</string>
+							<string>1097px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14350,7 +14352,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>212px</string>
+							<string>128px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14747,7 +14749,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>322px</string>
+							<string>72px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -14771,7 +14773,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>584px</string>
+							<string>515px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15162,7 +15164,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>139px</string>
+							<string>58px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15186,7 +15188,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>294px</string>
+							<string>289px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15583,7 +15585,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>1351px</string>
+							<string>1327px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -15607,7 +15609,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>77px</string>
+							<string>124px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16004,7 +16006,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>260px</string>
+							<string>252px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -16028,7 +16030,7 @@ function init(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>377px</string>
+							<string>307px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
